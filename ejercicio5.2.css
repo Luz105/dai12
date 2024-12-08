@@ -1,0 +1,402 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #cbe6f8; 
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    line-height: 1.5; 
+}
+
+
+header {
+    background-color: rgb(93, 164, 185); 
+    color: #ffffff; 
+    text-align: center;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.header h2 {
+    font-size: 24px;
+    margin: 5px 0;
+}
+
+
+section {
+    margin: 90px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    overflow: auto;
+}
+
+
+section img {
+    border: 2px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#imgtaller1 {
+    float: right;
+    width: 280px;
+    height: 180px;
+    margin-left: 40px; 
+}
+
+#imgtaller2 {
+    float: left;
+    width: 280px;
+    height: 180px;
+    margin-left: 10px; 
+}
+
+#imgtaller3 {
+    float: right;
+    width: 270px;
+    height: 200px;
+    margin-left: 40px; 
+}
+
+#imgtaller4 {
+    float: left;
+    width: 230px;
+    height: 200px;
+    margin-left: 20px; 
+}
+
+#imgtaller5 {
+    float: right;
+    width: 280px;
+    height: 190px;
+    margin-left: 40px; 
+}
+
+#imgtaller6 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px; 
+}
+
+#imgtaller7 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px; 
+}
+
+#imgtaller8 {
+    float: left;
+    width: 280px;
+    height: 190px;
+    margin-left: 40px; 
+}
+
+#imgtaller9 {
+    float: right;
+    width: 280px;
+    height: 190px;
+    margin-left: 40px; 
+}
+
+#imgtaller10 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px; 
+}
+
+#imgtaller11 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 40px; 
+}
+
+#imgtaller12 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px; 
+}
+
+#imgtaller13 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller14 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller15 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 40px;
+}
+
+#imgtaller16 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller17 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller18 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 40px;
+}
+
+#imgtaller19 {
+    float: left;
+    width: 280px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller20 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller21 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 40px;
+}
+
+#imgtaller22 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller23 {
+    float: left;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+#imgtaller24 {
+    float: right;
+    width: 290px;
+    height: 190px;
+    margin-left: 20px;
+}
+
+
+img {
+    float: left;
+    margin-right: 20px; 
+}
+
+#titulo,
+#tit2,
+#tit3 {
+    text-align: center;
+    font-size: 24px;
+}
+
+#Th,
+#TAM,
+#TC {
+    margin-top: -30px; 
+    display: block;
+}
+
+
+.horizontal-rule {
+    border: 0;
+    height: 5px;
+    background-color: rgb(93, 164, 185); 
+    margin: 20px 0;
+}
+
+
+.list-section {
+    margin: 30px 0; 
+}
+
+.list-section ul {
+    list-style-type: square; 
+    margin-left: 20px;
+}
+
+.list-section ol {
+    margin-left: 20px; 
+}
+
+.bg-color-1 {
+    background-color: #b6ffce; 
+}
+
+.bg-color-2 {
+    background-color: #6dceb9; 
+}
+
+.bg-color-3 {
+    background-color: #acd3ff; 
+}
+
+.bg-color-4 {
+    background-color: pink;
+}
+
+.bg-color-5 {
+    background-color: rgb(241, 117, 138);
+}
+
+.bg-color-6 {
+    background-color: rgb(232, 192, 255);
+}
+
+.bg-color-7 {
+    background-color: rgb(233, 255, 192);
+}
+
+.bg-color-8 {
+    background-color: rgb(203, 255, 192);
+}
+
+.bg-color-9 {
+    background-color: rgb(192, 253, 255);
+}
+
+.bg-color-10 {
+    background-color: rgb(63, 250, 241);
+}
+
+.bg-color-11 {
+    background-color: rgb(215, 92, 245);
+}
+
+.bg-color-12 {
+    background-color: rgb(192, 124, 34);
+}
+
+.bg-color-13 {
+    background-color: rgb(233, 221, 56);
+}
+
+.bg-color-14 {
+    background-color: rgb(240, 153, 153);
+}
+
+.bg-color-15 {
+    background-color: rgb(147, 161, 200);
+}
+
+.bg-color-16 {
+    background-color: rgb(108, 169, 204);
+}
+
+.bg-color-17 {
+    background-color: rgb(211, 191, 138);
+}
+
+.bg-color-18 {
+    background-color: rgb(208, 153, 229);
+}
+
+
+.bg-color-19 {
+    background-color: rgb(114, 253, 177);
+}
+
+
+.bg-color-20 {
+    background-color: rgb(173, 146, 204);
+}
+
+.bg-color-21 {
+    background-color: rgb(126, 182, 130);
+}
+
+.bg-color-22 {
+    background-color: rgb(223, 222, 156);
+}
+
+.bg-color-23 {
+    background-color: rgb(214, 180, 197);
+}
+
+.bg-color-24 {
+    background-color: rgb(189, 173, 204);
+}
+
+.bg-color-25 {
+    background-color: rgb(195, 182, 173);
+}
+
+.bg-color-26 {
+    background-color: rgb(255, 154, 154);
+}
+
+.bg-color-27 {
+    background-color: rgb(255, 245, 170);
+}
+
+
+
+a:link {
+    color: rgb(8, 14, 19);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(240, 61, 37);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(34, 207, 57);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+/* Estilos para el pie de página */
+footer {
+    background-color: rgb(93, 164, 185); 
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
